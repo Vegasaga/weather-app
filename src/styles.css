@@ -1,0 +1,97 @@
+body {
+  position: relative;
+  top: 300px;
+  margin: -20px 50px;
+  color: #ffff;
+}
+
+.card-body {
+  background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/060/743/original/steamuserimages-a.akamaihd.jpg?1672400073);
+  background-repeat: no-repeat;
+  background-attachment: revert;
+  background-size: cover;
+  border-radius: 10px;
+}
+.container {
+  display: grid;
+}
+h1 {
+  font-family: "Fredoka One", cursive;
+  text-align: center;
+  margin-bottom: 40px;
+}
+h2 {
+  font-family: "Fuzzy Bubbles", cursive;
+  font-size: 35px;
+}
+.date {
+  font-family: "Fuzzy Bubbles", cursive;
+  font-size: 20px;
+}
+h3 {
+  position: relative;
+  left: 215px;
+  top: -147px;
+  font-size: 45px;
+}
+h4 {
+  font-family: "Fuzzy Bubbles", cursive;
+}
+.form-check-label {
+  font-family: "Fuzzy Bubbles", cursive;
+}
+.temp {
+  position: relative;
+  left: 255px;
+  top: -200px;
+}
+.btn {
+  font-family: "Fuzzy Bubbles", cursive;
+  background: transparent;
+  display: inline;
+  position: relative;
+  top: -45px;
+}
+.submit,
+.search {
+  font-family: "Fuzzy Bubbles", cursive;
+  background-color: transparent;
+  color: rgba(255, 255, 255, 0.726);
+  border-radius: 10px;
+  padding: 4px 9px;
+}
+.submit:hover {
+  background: rgba(255, 255, 255, 0.315);
+}
+.climate {
+  font-family: "Fuzzy Bubbles", cursive;
+}
+.card-title {
+  font-family: "Fuzzy Bubbles", cursive;
+  font-size: 20px;
+  text-align: center;
+}
+img {
+  position: relative;
+  left: 40px;
+  top: 5px;
+}
+.card-text {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 20px;
+  position: relative;
+  bottom: -10px;
+}
+.panel {
+  padding: 20px;
+  border-radius: 35px;
+  margin-bottom: 50px;
+}
+.card {
+  display: grid;
+  background-color: rgba(255, 255, 255, 0.116);
+  color: rgba(255, 255, 255, 0.877);
+  padding: 20px;
+  border-radius: 15px;
+}
